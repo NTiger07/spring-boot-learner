@@ -13,7 +13,7 @@ public class AmigoscodespringApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AmigoscodespringApplication.class, args);
-		System.out.println("Server Started ");
+		System.out.println("Server Started on port 8080");
 	}
 
 
