@@ -1,0 +1,6 @@
+com\spring\amigoscodespring\student\StudentRepository.class
+com\spring\amigoscodespring\student\StudentConfig.class
+com\spring\amigoscodespring\student\StudentService.class
+com\spring\amigoscodespring\AmigoscodespringApplication.class
+com\spring\amigoscodespring\student\Student.class
+com\spring\amigoscodespring\student\StudentController.class
